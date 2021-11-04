@@ -1,5 +1,5 @@
-import Admin.*;
-import Accountant.*;
+// import Admin.*;
+// import Accountant.*;
 
 public class App {
     public static void main(String[] args) throws Exception {
